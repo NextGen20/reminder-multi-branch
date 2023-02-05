@@ -5,6 +5,7 @@ pipeline {
 
 			steps {
 				echo "the branch:mybranch"
+				echo "amit branch"
 }
 }
 }
